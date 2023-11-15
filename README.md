@@ -31,3 +31,6 @@ Is there incorrect information? [Submit an issue](https://github.com/Marjoel/cre
 ### Contributors
 
 [Marjoel Moreira](https://www.marjoel.com/ "Marjoel Moreira") (@[MarjoeM](https://www.twitter.com/MarjoelM "Twitter"))
+
+
+TODO: [https://www.bincodes.com/bin-list/](https://www.bincodes.com/bin-list/)
